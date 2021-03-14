@@ -1,2 +1,2 @@
 # PicGoRepo
-Just for PicGo
+Just for PicGo.
